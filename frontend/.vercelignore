@@ -1,0 +1,9 @@
+../env311/
+../app.py
+../data/
+../requirements.txt
+../pip_install_log.txt
+../*.db
+../*.pkl
+../__pycache__/
+../*.pyc
